@@ -1,1 +1,1 @@
-# Sample Project Testing
+# SampleProjectTesting
